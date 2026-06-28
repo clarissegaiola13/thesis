@@ -1,0 +1,24 @@
+# GDPR — never commit supporter data
+dados_benfica.csv
+*.csv
+
+# Generated outputs (optional — remove lines if you want to track figures)
+*.png
+*.xlsx
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.mplconfig/
+.matplotlib_cache/
+
+# Local thesis workspace (do not upload)
+*.pdf
+_pdf_extract*.txt
+revisao final/
+CHECKLIST_*.md
+REVISAO_*.md
+PROMPT_*.md
+generate_sample_flow.py
+02_sample_flow.png
